@@ -10,5 +10,4 @@ For developmen
 For Build
 2) Type to console "npm run build"
 
-
 Aplication uses SSR and SSG rendering. 
